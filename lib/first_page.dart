@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
               child: Text(
                 'Welcome to my App',
                 style: TextStyle(
-                  fontSize: 40,
+                  fontSize: 45,
                   fontWeight: FontWeight.bold,
                   color: Theme
                       .of(context)
