@@ -50,7 +50,7 @@ class MyHomePage extends StatelessWidget {
                        'Success',
                        style: TextStyle(
                          color: Colors.green,
-                         fontSize: 40,
+                         fontSize: 45,
                          fontWeight: FontWeight.bold,
                        ),
                      ),
